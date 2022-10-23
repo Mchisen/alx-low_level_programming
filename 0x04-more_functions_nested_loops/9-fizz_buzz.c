@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-  * main - Entry
+  * main - program that prints the numbers from 1 to 100
   * Return: 0
   */
 
